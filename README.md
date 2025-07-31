@@ -21,8 +21,8 @@ A web application for uploading CSV files and performing sensitive data transfor
 
 1. Clone the repository:
    ```bash
-   git clone [Sensitive-Data-Processor](https://github.com/harshitabisht05/Sensitive-Data-Processor_Project1.git)
-   cd Sensitive-Data-Processor
+   git clone https://github.com/harshitabisht05/Sensitive-Data-Processor_Project1.git
+   cd Sensitive-Data-Processor_Project1
    ```
 
 2. Install dependencies:
